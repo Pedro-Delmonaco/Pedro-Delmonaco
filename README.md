@@ -3,8 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Delmonaco&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedro-Delmonaco&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-Delmonaco&theme=dark&hide_border=true&border_radius=10&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=EB5454&ring=EB5454&currStreakLabel=EB5454" alt="GitHub Streak" />
 </div>
 
 ###
@@ -53,6 +52,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Pedro-Delmonaco/Pedro-Delmonaco/output/snake.svg" alt="Snake animation" />
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pedro-Delmonaco/Pedro-Delmonaco/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pedro-Delmonaco/Pedro-Delmonaco/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pedro-Delmonaco/Pedro-Delmonaco/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 ###
