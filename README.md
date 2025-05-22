@@ -1,4 +1,24 @@
+## About me
+
 <h2 align="left">Hey👋! My name is João Pedro and I'm a computer science, from Brazil</h2>
+
+I'm a **technology enthusiast** passionate about **software development**, **gaming**, and **cars**.  
+Currently, I work with **debugging and improving programming routines**, as well as using **Docker** to package and structure applications.
+
+I'm always eager to learn new tools and best practices that help deliver scalable and efficient solutions.
+
+---
+
+🛠️ Tech interests:  
+- Software architecture  
+- Containerization and DevOps  
+- Automation and optimization  
+- Backend development
+
+🎮 Hobbies:  
+Gaming, exploring car technology, and experimenting with new programming languages.
+
+Let's build something great together 🚀
 
 ###
 
