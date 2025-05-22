@@ -20,7 +20,7 @@ Gaming, exploring car technology, and experimenting with new programming languag
 
 Let's build something great together 🚀
 
-###
+### My GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-Delmonaco&theme=dark&hide_border=true&border_radius=10&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=EB5454&ring=EB5454&currStreakLabel=EB5454" alt="GitHub Streak" />
