@@ -41,8 +41,8 @@ No dia a dia, isso significa:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pedro-Delmonaco&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&title_color=EB5454&icon_color=EB5454" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Delmonaco&layout=compact&theme=dark&hide_border=true&langs_count=8&title_color=EB5454" alt="Top Languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Pedro-Delmonaco&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&title_color=EB5454&icon_color=EB5454" alt="GitHub Stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Pedro-Delmonaco&layout=compact&theme=dark&hide_border=true&langs_count=8&title_color=EB5454" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -58,7 +58,7 @@ No dia a dia, isso significa:
 ### 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pedro-Delmonaco&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Pedro-Delmonaco&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
 </div>
 
 ---
