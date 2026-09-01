@@ -1,38 +1,44 @@
-<h1 align="left">Olá! 👋 Eu sou João Pedro Delmonaco</h1>
-
-<p align="left"><i>"Ora et Labora"</i></p>
-
-<div align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EB5454&width=600&lines=Computer+Science+student+from+Brazil;Backend+%26+DevOps+enthusiast;Debugging+and+optimizing+routines;Building+scalable+solutions+with+Docker" alt="Typing SVG" />
-  </a>
-</div>
-
----
-
-## 🧑‍💻 About me
-
-I'm a **technology enthusiast** passionate about **software development**, **gaming**, and **cars**.
-Currently, I work with **debugging and improving programming routines**, as well as using **Docker** to package and structure applications.
-
-I'm always eager to learn new tools and best practices that help deliver scalable and efficient solutions.
-
-🛠️ **Tech interests:** Software architecture · Containerization & DevOps · Automation & optimization · Backend development
-🎮 **Hobbies:** Gaming, exploring car technology, and experimenting with new programming languages.
-
-> Let's build something great together 🚀
-
----
-
-## 📊 Contribuições em 3D
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Pedro-Delmonaco/Pedro-Delmonaco/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions" />
+
+<h1>Olá, eu sou João Pedro Delmonaco 👋</h1>
+
+<i>"Ora et Labora"</i>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EB5454&width=700&lines=Software+Engineering+student+%40+UniFilBR;Backend+%26+Healthcare+Interoperability;Oracle+PL%2FSQL+%7C+Docker+Swarm+%7C+TISS%2FANS;Turning+messy+integrations+into+reliable+systems" alt="Typing SVG" />
+
+<a href="https://www.linkedin.com/in/pedro-delmonaco-961485234/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:delmonaco.comercial@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://instagram.com/_delmonaco_">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
 </div>
 
 ---
 
-## 📈 Profile details
+### 🧑‍💻 Sobre mim
+
+Trabalho com **infraestrutura e integração de sistemas de saúde suplementar**, atuando na ponte entre operadoras de planos de saúde, prestadores e a infraestrutura técnica que sustenta tudo isso.
+
+No dia a dia, isso significa:
+
+- 🏥 Construir e corrigir integrações **TISS/ANS** (XML/SOAP) entre sistemas e operadoras
+- 🗄️ Administrar bancos **Oracle**, depurando procedures/packages PL/SQL críticas para faturamento e autorização de guias
+- 🐳 Manter e evoluir uma infraestrutura **Docker Swarm** com dezenas de serviços em produção
+- 🌐 Configurar **Nginx** e certificados para expor esses serviços com segurança
+- 🎓 Cursando **Engenharia de Software** na UniFilBR, com foco recente em métodos numéricos, testes de software e estatística aplicada
+
+> Gosto de sistemas onde "funciona na minha máquina" não é suficiente — o desafio de manter integrações de saúde estáveis, auditáveis e em produção é o que me motiva.
+
+🎮 Fora do trabalho: carros, tecnologia automotiva e explorar linguagens novas por curiosidade.
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pedro-Delmonaco&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&title_color=EB5454&icon_color=EB5454" alt="GitHub Stats" />
@@ -43,9 +49,13 @@ I'm always eager to learn new tools and best practices that help deliver scalabl
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-Delmonaco&theme=dark&hide_border=true&border_radius=10&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=EB5454&ring=EB5454&currStreakLabel=EB5454" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pedro-Delmonaco/Pedro-Delmonaco/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions" />
+</div>
+
 ---
 
-## 🏆 Trophies
+### 🏆 Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Pedro-Delmonaco&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
@@ -53,67 +63,50 @@ I'm always eager to learn new tools and best practices that help deliver scalabl
 
 ---
 
-## 🛠️ Stack
+### 🛠️ Stack
 
-### Linguagens
+<div align="center">
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
-</div>
+**Linguagens**
+<br />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php" />
 
-### Frameworks & bibliotecas
+<br /><br />
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" alt="tailwind css logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="35" alt="oracle logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35" alt="vuejs logo" />
-</div>
+**Dados & Integração**
+<br />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="35" alt="oracle" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="28"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/TISS%2FANS-005B96?style=for-the-badge&logoColor=white" height="28"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SOAP%2FXML-e34c26?style=for-the-badge&logoColor=white" height="28"/>
 
-### Ferramentas
+<br /><br />
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="github logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux logo" />
-</div>
+**Infra & DevOps**
+<br />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Docker%20Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="35" alt="nginx" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="github" />
 
----
+<br /><br />
 
-## 🌐 Onde me encontrar
+**Frontend**
+<br />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35" alt="vuejs" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" alt="tailwind" />
 
-<div align="left">
-  <a href="https://instagram.com/_delmonaco_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="mailto:delmonaco.comercial@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/pedro-delmonaco-961485234/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
 </div>
 
 ---
-
-## 🐍 Snake Contribution Animation
 
 <div align="center">
   <picture>
@@ -121,4 +114,8 @@ I'm always eager to learn new tools and best practices that help deliver scalabl
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pedro-Delmonaco/Pedro-Delmonaco/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pedro-Delmonaco/Pedro-Delmonaco/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+<div align="center">
+  <sub>Vamos construir algo ótimo juntos 🚀</sub>
 </div>
