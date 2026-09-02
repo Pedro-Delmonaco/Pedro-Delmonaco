@@ -22,14 +22,14 @@
 
 ### 🧑‍💻 Sobre mim
 
-Trabalho com **infraestrutura e integração de sistemas de saúde suplementar**, atuando na ponte entre operadoras de planos de saúde, prestadores e a infraestrutura técnica que sustenta tudo isso.
+Trabalho com **infraestrutura e integração de sistemas de saúde suplementar**, atuando como ponte entre operadoras, prestadores e a infraestrutura técnica que sustenta tudo isso.
 
 No dia a dia, isso significa:
 
 - 🏥 Construir e corrigir integrações **TISS/ANS** (XML/SOAP) entre sistemas e operadoras
 - 🗄️ Administrar bancos **Oracle**, depurando procedures/packages PL/SQL críticas para faturamento e autorização de guias
 - 🐳 Manter e evoluir uma infraestrutura **Docker Swarm** com dezenas de serviços em produção
-- 🌐 Configurar **Nginx** e certificados para expor esses serviços com segurança
+- 🌐 Configurar **Nginx** e certificados TLS para expor esses serviços com segurança
 - 🎓 Cursando **Engenharia de Software** na UniFilBR, com foco recente em métodos numéricos, testes de software e estatística aplicada
 
 > Gosto de sistemas onde "funciona na minha máquina" não é suficiente — o desafio de manter integrações de saúde estáveis, auditáveis e em produção é o que me motiva.
@@ -58,8 +58,18 @@ No dia a dia, isso significa:
 ### 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Pedro-Delmonaco&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+  <img src="https://github-trophies.devomb.com/?username=Pedro-Delmonaco&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
 </div>
+
+<!--
+  Usando o espelho comunitário github-trophies.devomb.com (listado oficialmente
+  em ryo-ma/github-profile-trophy) porque a instância oficial vercel.app está
+  com o deploy pausado por limite de uso. Você já tem um fork em
+  github.com/Pedro-Delmonaco/github-profile-trophy — se um dia quiser parar de
+  depender de terceiros, importe esse fork na Vercel, configure as env vars
+  GITHUB_TOKEN1/GITHUB_TOKEN2 com um token seu e troque o domínio acima pelo
+  seu-app.vercel.app.
+-->
 
 ---
 
